@@ -1,7 +1,7 @@
 # Dynamic Website Examples
 
-Astro: https://dynamic-website-examples-vnml.vercel.app
+Astro: https://astro.DynamicWebsiteExamples.url122.xyz
 
-HTML: https://dynamic-website-examples-vhmk.vercel.app/
+HTML: https://html.DynamicWebsiteExamples.url122.xyz
 
-Next.js: https://dynamic-website-examples.vercel.app/
+Next.js: https://nextjs.DynamicWebsiteExamples.url122.xyz
